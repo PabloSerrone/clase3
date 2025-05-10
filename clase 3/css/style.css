@@ -77,6 +77,7 @@ a{
     background-size: cover; /* Ajusta la imagen al tamaño de la pantalla */
     background-repeat: no-repeat; /* No repetir la imagen */
     background-position: center center; /* Centrada */
+        /* background-attachment: fixed; */
 }
 
 
